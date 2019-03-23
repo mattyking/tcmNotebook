@@ -1,0 +1,2124 @@
+[W 04:05:01.028 NotebookApp] Collisions detected in /home/ubuntu/.jupyter/jupyter_notebook_config.py and /home/ubuntu/.jupyter/jupyter_notebook_config.json config files. /home/ubuntu/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "'sha1:6ae69da545d6:602b83029cc0f3a3e2f3c933cb827d89d316d4b2' ignored, using 'sha1:e9a75018a22d:146b9a34ab8a5f5499350aed48c914a6a95420f2'"
+      }
+    }
+[I 04:05:01.034 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 04:05:01.359 NotebookApp] Serving notebooks from local directory: /home/ubuntu/notebooks
+[I 04:05:01.360 NotebookApp] 0 active kernels
+[I 04:05:01.360 NotebookApp] The Jupyter Notebook is running at:
+[I 04:05:01.360 NotebookApp] https://[all ip addresses on your system]:8888/
+[I 04:05:01.360 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 04:05:39.959 NotebookApp] 302 GET / (69.172.160.116) 0.61ms
+[I 04:05:39.990 NotebookApp] 302 GET /tree? (69.172.160.116) 0.88ms
+[I 04:06:25.866 NotebookApp] 302 POST /login?next=%2Ftree%3F (69.172.160.116) 1.06ms
+[I 04:09:45.511 NotebookApp] Kernel started: 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 04:09:46.097 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 04:11:45.509 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:13:45.513 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:15:45.543 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:17:45.488 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:19:45.522 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:21:45.508 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:23:45.573 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:25:45.578 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:27:45.520 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:31:45.537 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:33:45.539 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:37:45.585 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:39:45.613 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:41:45.546 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:43:45.565 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:44:30.879 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:44:34.315 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:8929DDE456DF4D20A3854DA2033A537D
+[W 04:44:36.190 NotebookApp] Forbidden
+[W 04:44:36.190 NotebookApp] 403 GET /api/terminals?_=1551672386554 (69.172.160.116) 0.96ms referer=https://ec2-54-190-44-23.us-west-2.compute.amazonaws.com:8888/tree?
+[W 04:44:36.191 NotebookApp] Forbidden
+[W 04:44:36.191 NotebookApp] 403 GET /api/sessions?_=1551672386553 (69.172.160.116) 0.67ms referer=https://ec2-54-190-44-23.us-west-2.compute.amazonaws.com:8888/tree?
+[I 04:44:40.976 NotebookApp] 302 GET /tree? (69.172.160.116) 0.73ms
+[W 04:44:48.387 NotebookApp] 401 POST /login?next=%2Ftree%3F (69.172.160.116) 1.52ms referer=https://ec2-54-190-44-23.us-west-2.compute.amazonaws.com:8888/login?next=%2Ftree%3F
+[I 04:44:57.535 NotebookApp] 302 POST /login?next=%2Ftree%3F (69.172.160.116) 1.08ms
+[W 21:55:20.171 NotebookApp] SSL Error on 8 ('196.52.43.104', 59463): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 02:38:29.307 NotebookApp] 302 POST /login?next=%2Ftree%3F (69.172.160.116) 1.06ms
+[I 02:38:37.702 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 02:40:37.940 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:42:37.292 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:44:37.300 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:52:37.475 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:54:37.305 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:56:37.328 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:58:37.312 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:00:37.300 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:02:37.311 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:04:37.312 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:06:37.344 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:08:37.331 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:10:37.324 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:16:37.472 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:18:37.320 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:20:37.325 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:22:37.341 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:00:37.546 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:02:37.373 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:04:37.353 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:06:37.337 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:08:37.338 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:10:37.361 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:12:37.387 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:14:37.371 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:26:37.407 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:28:37.394 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:30:37.389 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:32:37.382 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:34:37.391 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:36:37.406 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:39:48.541 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:40:37.402 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:42:37.435 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:44:37.413 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:46:37.409 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:48:37.416 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:50:37.392 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:52:37.405 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:53:32.311 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:53:35.845 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:E49B17C99D7C460981A0695D5FCD2B3D
+[I 14:40:23.957 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 0.62ms
+[I 14:40:29.006 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 14:42:28.790 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 14:44:28.783 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 14:46:28.817 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 14:48:28.781 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 14:50:28.784 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 14:52:28.790 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 14:54:28.818 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:02:28.939 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:04:28.796 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:06:28.791 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:08:28.821 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 15:09:56.523 NotebookApp] SSL Error on 9 ('172.105.238.87', 35284): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 15:10:00.151 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:10:30.443 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:FCF8385C4DBE450D81BA981D2F572FFA
+[I 15:20:03.539 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 1.06ms
+[I 15:20:08.623 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 15:22:08.387 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:30:08.561 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:32:08.375 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 15:32:19.858 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:22:08.537 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:24:08.396 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:26:08.396 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:28:08.408 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:30:08.459 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:32:08.758 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:34:08.395 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 16:36:08.419 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:02:08.829 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:04:08.671 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:06:08.689 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[E 06:47:34.514 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:47:34.518 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 07:53:59.682 NotebookApp] SSL Error on 8 ('51.15.191.81', 50569): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 16:06:31.228 NotebookApp] SSL Error on 8 ('139.162.83.10', 38510): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 16:06:31.478 NotebookApp] SSL Error on 8 ('139.162.83.10', 38600): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 16:06:31.740 NotebookApp] SSL Error on 8 ('139.162.83.10', 38708): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 16:06:37.005 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 16:06:37.006 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 16:06:52.122 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 16:06:52.122 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 16:06:52.261 NotebookApp] SSL Error on 8 ('139.162.83.10', 47612): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 16:07:02.525 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 16:07:02.526 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 21:58:45.073 NotebookApp] SSL Error on 8 ('212.92.101.90', 30816): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 21:58:45.480 NotebookApp] SSL Error on 8 ('212.92.101.90', 32149): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 00:25:43.129 NotebookApp] SSL Error on 8 ('185.232.65.60', 32767): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 05:26:10.439 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:28:09.565 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:30:09.561 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:32:09.532 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:34:09.573 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:36:09.539 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:38:09.533 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:44:10.135 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:46:09.529 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:47:05.945 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:47:07.948 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:700EBA612E94457595A95CFD06A7F1CB
+[W 07:09:46.626 NotebookApp] SSL Error on 8 ('185.92.73.227', 1455): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 10:07:37.553 NotebookApp] SSL Error on 8 ('172.105.238.87', 57644): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 12:30:43.912 NotebookApp] SSL Error on 8 ('125.64.94.208', 53192): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 22:38:17.501 NotebookApp] SSL Error on 8 ('185.232.65.60', 32767): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 10:43:12.147 NotebookApp] SSL Error on 8 ('185.209.0.42', 1022): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 10:45:11.488 NotebookApp] SSL Error on 8 ('13.52.99.188', 37648): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 03:30:35.554 NotebookApp] SSL Error on 8 ('196.52.43.121', 54835): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 05:53:53.079 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 1.26ms
+[I 05:53:57.725 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 05:55:57.484 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:57:57.487 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:58:27.529 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:59:59.292 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:01:59.298 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:03:59.283 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:05:59.288 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 06:07:10.628 NotebookApp] SSL Error on 8 ('139.162.83.10', 45932): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 06:07:10.875 NotebookApp] SSL Error on 8 ('139.162.83.10', 46050): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 06:07:11.146 NotebookApp] SSL Error on 8 ('139.162.83.10', 46146): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 06:07:16.413 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:07:16.414 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:07:31.543 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:07:31.544 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 06:07:31.665 NotebookApp] SSL Error on 8 ('139.162.83.10', 54868): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 06:07:41.922 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:07:41.924 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 06:07:59.303 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:09:59.289 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:11:59.281 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:13:59.284 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:15:59.298 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:17:59.268 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:19:59.274 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:21:59.273 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:23:59.274 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:25:11.459 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:25:59.284 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:27:27.040 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:28:10.866 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:F5A389302A3F4F54AA17758FE92CB04A
+[E 07:09:42.112 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 07:09:42.112 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 17:22:27.824 NotebookApp] SSL Error on 8 ('185.92.73.133', 1608): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[I 17:28:31.769 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 0.64ms
+[I 17:28:40.452 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 17:38:40.296 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 17:40:39.731 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 17:42:39.757 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 17:44:39.751 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 17:46:39.758 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 17:48:39.751 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 17:51:52.683 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 01:36:22.005 NotebookApp] SSL Error on 8 ('172.105.238.87', 50340): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 02:56:40.185 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:58:40.058 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:00:40.021 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:02:39.999 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:04:40.003 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:06:40.074 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:08:40.027 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:10:40.028 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:12:40.045 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:14:58.367 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:22:40.218 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:24:40.034 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:26:40.049 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:28:40.029 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:30:40.052 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:32:40.027 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:34:40.030 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:36:40.043 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:38:40.049 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:40:40.066 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:42:40.085 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:44:40.029 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:46:40.050 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:48:50.617 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 03:48:53.848 NotebookApp] Replacing stale connection: 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:450B80D334FD46B191A35CF3CEC74272
+[I 03:48:58.850 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:450B80D334FD46B191A35CF3CEC74272
+[I 03:48:58.851 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 03:48:58.851 NotebookApp] Restoring connection for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:450B80D334FD46B191A35CF3CEC74272
+[I 03:50:10.697 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:52:40.045 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:54:35.714 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:54:40.049 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:56:40.021 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:58:40.024 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:00:40.036 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:02:40.031 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:04:40.026 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:06:40.053 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:08:40.082 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:10:40.040 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:12:40.027 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:14:40.062 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:16:40.055 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:18:40.069 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:20:40.045 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:24:40.013 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:26:40.013 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 04:29:58.963 NotebookApp] SSL Error on 11 ('113.103.8.223', 51390): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 04:30:02.557 NotebookApp] SSL Error on 11 ('113.103.8.223', 51397): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 04:30:03.123 NotebookApp] SSL Error on 11 ('113.103.8.223', 51401): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 05:20:40.904 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:24:40.080 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:28:40.110 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:30:40.088 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:32:40.125 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:34:40.104 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 05:58:40.231 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:00:40.445 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:08:40.256 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:09:31.236 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 12:32:52.514 NotebookApp] SSL Error on 8 ('198.108.67.16', 60084): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 15:29:30.467 NotebookApp] SSL Error on 11 ('77.247.109.34', 40638): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 15:29:33.282 NotebookApp] 404 GET /cgi/webcgi (77.247.109.34) 18.20ms referer=None
+[W 20:49:33.228 NotebookApp] SSL Error on 8 ('77.243.191.18', 49950): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 20:49:33.594 NotebookApp] SSL Error on 8 ('77.243.191.18', 50799): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 23:49:26.586 NotebookApp] SSL Error on 8 ('112.26.201.131', 59409): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 23:49:27.058 NotebookApp] SSL Error on 8 ('112.26.201.131', 59418): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 23:49:27.527 NotebookApp] SSL Error on 8 ('112.26.201.131', 59419): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 00:02:38.864 NotebookApp] SSL Error on 8 ('139.162.83.10', 54200): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 00:02:39.117 NotebookApp] SSL Error on 8 ('139.162.83.10', 54430): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 00:02:39.381 NotebookApp] SSL Error on 8 ('139.162.83.10', 54522): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 00:02:44.632 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:02:44.633 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:02:59.761 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:02:59.761 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 00:02:59.899 NotebookApp] SSL Error on 8 ('139.162.83.10', 34788): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 00:03:10.169 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:03:10.170 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 01:44:35.212 NotebookApp] SSL Error on 8 ('216.245.197.254', 63536): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 02:06:40.827 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:08:40.635 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:10:40.714 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:12:40.625 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:14:40.627 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:16:40.659 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:18:40.634 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:20:40.638 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 03:49:24.671 NotebookApp] SSL Error on 8 ('185.153.196.92', 52115): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 03:49:25.119 NotebookApp] SSL Error on 8 ('185.153.196.92', 53100): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 03:52:13.115 NotebookApp] SSL Error on 8 ('195.206.253.148', 7413): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 03:52:13.462 NotebookApp] SSL Error on 8 ('195.206.253.148', 8082): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[I 06:03:17.344 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 06:03:26.588 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 06:03:34.728 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 06:05:34.105 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:DA32AA1F9CEB470CB669FA331D558005
+[I 06:05:39.168 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 06:05:48.560 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:9AAB8CF3F8804A55979D66BEDA3AC82F
+[W 06:14:00.427 NotebookApp] SSL Error on 8 ('46.17.47.164', 47458): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 06:14:03.603 NotebookApp] 404 GET /a2billing/customer/templates/default/footer.tpl (46.17.47.164) 1.35ms referer=None
+[W 07:04:51.914 NotebookApp] SSL Error on 8 ('46.17.47.164', 49184): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 07:04:53.716 NotebookApp] 302 GET /recordings/ (46.17.47.164) 0.48ms
+[W 07:04:54.406 NotebookApp] 404 GET /recordings (46.17.47.164) 1.33ms referer=None
+[W 07:55:09.294 NotebookApp] 404 GET /vtigercrm/vtigerservice.php (46.17.47.164) 1.34ms referer=None
+[W 07:55:10.918 NotebookApp] SSL Error on 8 ('46.17.47.164', 42550): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 08:48:22.722 NotebookApp] SSL Error on 8 ('46.17.47.164', 59964): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 08:48:24.803 NotebookApp] 302 GET / (46.17.47.164) 0.49ms
+[I 08:48:25.398 NotebookApp] 302 GET /tree (46.17.47.164) 0.64ms
+[W 12:14:45.480 NotebookApp] SSL Error on 8 ('141.98.89.58', 2149): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 16:52:22.014 NotebookApp] SSL Error on 8 ('198.143.133.154', 35843): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[E 16:52:42.379 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 16:52:42.380 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 01:14:03.578 NotebookApp] SSL Error on 8 ('196.52.43.63', 59351): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 04:41:10.251 NotebookApp] SSL Error on 8 ('185.232.65.60', 32767): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 11:21:31.050 NotebookApp] SSL Error on 8 ('85.14.245.124', 1162): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 13:16:21.027 NotebookApp] SSL Error on 8 ('172.105.238.87', 48208): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[E 14:43:57.529 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 14:43:57.530 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 15:02:02.998 NotebookApp] SSL Error on 8 ('122.228.19.79', 21803): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 08:16:49.199 NotebookApp] SSL Error on 8 ('41.226.255.87', 53397): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 08:16:49.622 NotebookApp] SSL Error on 8 ('41.226.255.87', 53402): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 08:16:50.043 NotebookApp] SSL Error on 8 ('41.226.255.87', 23661): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 11:34:54.009 NotebookApp] SSL Error on 8 ('209.17.96.178', 64747): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 21:32:03.770 NotebookApp] 404 GET /admin/assets/js/views/login.js (185.53.91.50) 2.92ms referer=None
+[W 21:57:49.904 NotebookApp] SSL Error on 8 ('185.53.91.50', 59008): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[E 00:26:21.230 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:21.231 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:21.232 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:21.233 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:25.949 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:25.949 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 00:26:26.192 NotebookApp] 302 GET / (68.188.56.132) 0.46ms
+[I 00:26:26.269 NotebookApp] 302 GET /tree? (68.188.56.132) 0.63ms
+[E 00:26:27.465 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.466 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.466 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.466 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.621 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.621 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.622 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:27.622 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 00:26:31.647 NotebookApp] 401 POST /login?next=%2Ftree%3F (68.188.56.132) 1.50ms referer=https://ec2-54-190-44-23.us-west-2.compute.amazonaws.com:8888/login?next=%2Ftree%3F
+[E 00:26:31.997 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:31.999 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:32.003 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:32.004 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:32.170 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:32.171 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:32.171 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:32.171 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 00:26:35.488 NotebookApp] 302 POST /login?next=%2Ftree%3F (68.188.56.132) 1.06ms
+[E 00:26:42.990 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:42.990 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:42.991 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:42.991 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:48.756 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:48.757 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:52.382 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:52.382 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:52.384 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:52.384 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 00:26:55.153 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[E 00:26:55.709 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.710 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.714 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.714 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.906 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.906 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.916 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:26:55.916 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 00:32:54.872 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[E 00:33:30.264 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:33:30.265 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:33:30.265 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:33:30.265 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:34:53.817 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:34:53.819 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:34:53.825 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:34:53.826 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 00:34:54.856 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:35:12.504 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6 restarted
+[I 00:36:54.801 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:38:54.795 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:40:54.851 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:44:54.804 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:46:54.829 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:48:54.864 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:50:54.873 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:54:54.952 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:56:54.856 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 00:58:54.788 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:00:54.782 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:02:54.833 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:06:54.932 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:08:54.921 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:10:54.846 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:12:54.943 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:14:54.944 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:16:54.813 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:18:54.885 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 01:22:35.009 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:C55E6855EE08423B845F15C635BD77EA
+[W 08:00:14.001 NotebookApp] SSL Error on 8 ('185.209.0.12', 72): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 12:46:19.703 NotebookApp] SSL Error on 8 ('80.82.77.139', 33802): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 13:43:25.758 NotebookApp] 404 GET //libs/js/iframe.js (77.247.109.58) 4.60ms referer=None
+[W 00:41:32.878 NotebookApp] SSL Error on 8 ('139.162.83.10', 44078): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 00:41:33.144 NotebookApp] SSL Error on 8 ('139.162.83.10', 44226): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 00:41:33.425 NotebookApp] SSL Error on 8 ('139.162.83.10', 44366): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 00:41:38.690 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:41:38.692 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:41:53.826 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:41:53.827 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 00:41:53.959 NotebookApp] SSL Error on 8 ('139.162.83.10', 53406): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 00:42:04.223 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:42:04.223 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 02:33:03.830 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 0.68ms
+[I 02:33:10.010 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 02:35:09.925 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:37:09.959 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:39:09.895 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:41:09.975 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:43:09.985 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:45:10.059 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:47:09.915 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:49:09.914 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:51:10.290 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:55:09.946 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:57:09.911 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 02:59:09.903 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:01:09.895 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:03:09.976 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:05:09.902 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:07:09.896 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:09:09.895 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:11:09.905 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:13:09.902 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:15:09.913 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:17:09.897 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:20:24.066 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:22:41.137 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:23:09.980 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:25:09.915 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:27:09.963 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:28:51.509 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6 restarted
+[I 03:29:09.901 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:29:14.761 NotebookApp] Kernel interrupted: 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 03:31:09.924 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:33:09.896 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:35:09.970 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:37:09.911 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:39:09.909 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:41:09.895 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:43:09.919 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:45:09.901 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:47:09.908 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:49:09.924 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:51:09.909 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:53:09.913 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:55:09.916 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:57:09.915 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:59:09.926 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:59:44.464 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:02:29.589 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:13:17.133 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:9842496A35F24D0C82A5339B32EC2747
+[W 14:55:30.309 NotebookApp] SSL Error on 23 ('83.171.104.73', 35726): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[E 15:41:17.490 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 15:41:17.493 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 00:59:22.750 NotebookApp] SSL Error on 23 ('185.222.211.18', 1157): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[I 02:56:52.332 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 0.76ms
+[I 02:57:00.111 NotebookApp] Adapting to protocol v5.1 for kernel 49cbf9d0-a885-43f3-bad5-a99825aa9ec6
+[I 02:58:59.903 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:01:00.124 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:02:59.901 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:04:59.929 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:06:59.871 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:08:59.879 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:10:59.890 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:12:59.915 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:16:59.883 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:18:59.897 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:20:59.902 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:22:59.883 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:23:58.307 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:24:59.876 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:25:01.922 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:26:59.883 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:28:59.906 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:30:59.877 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:32:59.877 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:34:59.942 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:36:59.939 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:38:59.921 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[W 03:39:11.117 NotebookApp] SSL Error on 23 ('185.232.65.60', 32767): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 03:41:00.011 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 03:42:59.960 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:01:00.037 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:09:00.203 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:16:59.924 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:18:59.954 NotebookApp] Saving file at /S3 File Exploration.ipynb
+[I 04:20:14.925 NotebookApp] Copying Weekly Stats.ipynb to 
+[I 04:20:18.356 NotebookApp] Kernel started: 85e5bf7c-794c-45a4-9594-1a049b881811
+[I 04:20:19.289 NotebookApp] Adapting to protocol v5.1 for kernel 85e5bf7c-794c-45a4-9594-1a049b881811
+[I 04:21:00.440 NotebookApp] Saving file at /Weekly Stats.ipynb
+[I 04:22:18.434 NotebookApp] Saving file at /Debug Data.ipynb
+[I 04:22:26.587 NotebookApp] Starting buffering for 85e5bf7c-794c-45a4-9594-1a049b881811:FE3120F24AD348AF9C265CF60F2367C5
+[I 04:22:30.617 NotebookApp] Kernel shutdown: 85e5bf7c-794c-45a4-9594-1a049b881811
+[I 04:22:59.906 NotebookApp] Saving file at /Weekly Stats.ipynb
+[I 04:24:24.204 NotebookApp] Saving file at /Weekly Stats.ipynb
+[I 04:25:18.519 NotebookApp] Copying Weekly Stats.ipynb to 
+[I 04:25:21.918 NotebookApp] Kernel started: 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 04:25:22.421 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 04:29:22.474 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 04:31:22.408 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 04:33:22.434 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 04:35:21.975 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 05:01:00.088 NotebookApp] Saving file at /Weekly Stats.ipynb
+[I 05:01:22.413 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 05:02:18.187 NotebookApp] Starting buffering for 5e3e3973-bff5-4e69-896c-39197b47e6d1:B56467964818495F87D134F3D4433C92
+[I 05:02:18.801 NotebookApp] Starting buffering for 49cbf9d0-a885-43f3-bad5-a99825aa9ec6:130B2EEAFA8C444980AD5983487557CE
+[W 06:10:53.631 NotebookApp] SSL Error on 23 ('196.52.43.125', 64724): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 09:29:52.739 NotebookApp] SSL Error on 23 ('58.96.241.158', 59592): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 19:23:18.985 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 0.68ms
+[I 19:23:28.592 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 19:25:28.192 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:27:27.790 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:29:27.793 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:31:27.816 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:35:27.856 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:37:27.776 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:39:27.794 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:41:28.092 NotebookApp] Saving file at /Weekly Stats-Copy1.ipynb
+[I 19:43:27.801 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:45:27.799 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:47:28.102 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:49:27.789 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:51:28.067 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:53:27.775 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:55:27.749 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:57:27.773 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 19:59:27.772 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 20:00:59.348 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 20:03:27.765 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 20:05:27.790 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 20:23:28.278 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[W 23:05:26.817 NotebookApp] SSL Error on 23 ('185.222.211.18', 140): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[I 04:53:59.575 NotebookApp] Starting buffering for 5e3e3973-bff5-4e69-896c-39197b47e6d1:F8DC4EE5B6AE4481884958498FC4E2CF
+[W 05:24:05.450 NotebookApp] SSL Error on 23 ('198.108.66.112', 5296): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 16:22:24.000 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 16:24:24.428 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[W 20:03:50.475 NotebookApp] SSL Error on 23 ('139.162.83.10', 38800): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 20:03:50.727 NotebookApp] SSL Error on 23 ('139.162.83.10', 38996): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 20:03:50.984 NotebookApp] SSL Error on 23 ('139.162.83.10', 39104): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 20:03:56.254 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 20:03:56.254 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 20:04:11.372 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 20:04:11.372 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 20:04:11.499 NotebookApp] SSL Error on 23 ('139.162.83.10', 48726): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 20:04:21.764 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 20:04:21.764 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 20:36:55.411 NotebookApp] SSL Error on 23 ('185.209.0.12', 1389): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 00:33:07.178 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 00:33:07.178 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 00:33:07.484 NotebookApp] SSL Error on 23 ('125.76.60.247', 18637): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 04:35:18.202 NotebookApp] Starting buffering for 5e3e3973-bff5-4e69-896c-39197b47e6d1:46EA754071B747928FD8B1098CCA9A73
+[W 06:24:45.170 NotebookApp] SSL Error on 23 ('185.153.196.133', 16450): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 06:24:45.613 NotebookApp] SSL Error on 23 ('185.153.196.133', 17709): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 13:58:54.411 NotebookApp] SSL Error on 23 ('172.105.238.87', 55638): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[E 16:43:53.102 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 16:43:53.102 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[I 03:31:52.027 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 03:32:02.942 NotebookApp] Starting buffering for 5e3e3973-bff5-4e69-896c-39197b47e6d1:9924475BB04142AB8768270C3B49D127
+[W 05:38:38.264 NotebookApp] SSL Error on 23 ('185.232.65.60', 32767): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 18:01:12.489 NotebookApp] SSL Error on 23 ('172.105.238.87', 56764): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 02:21:41.255 NotebookApp] SSL Error on 23 ('196.52.43.85', 60628): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[I 03:57:56.736 NotebookApp] 302 GET /login?next=%2Ftree%3F (69.172.160.116) 0.64ms
+[I 03:57:59.882 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 03:59:59.676 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 04:02:00.428 NotebookApp] Starting buffering for 5e3e3973-bff5-4e69-896c-39197b47e6d1:DD01C1F87AE243C584FAC424CDADB8CA
+[W 21:20:12.581 NotebookApp] SSL Error on 23 ('194.156.126.16', 13576): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 21:20:12.907 NotebookApp] SSL Error on 23 ('194.156.126.16', 14914): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 08:23:13.979 NotebookApp] SSL Error on 23 ('185.156.177.2', 1512): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 08:23:14.277 NotebookApp] SSL Error on 23 ('185.156.177.2', 2375): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 10:25:51.724 NotebookApp] SSL Error on 23 ('139.162.83.10', 53324): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 10:25:51.993 NotebookApp] SSL Error on 23 ('139.162.83.10', 53538): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 10:25:52.248 NotebookApp] SSL Error on 23 ('139.162.83.10', 53626): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 10:25:57.514 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 10:25:57.515 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 10:26:12.634 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 10:26:12.634 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 10:26:12.772 NotebookApp] SSL Error on 23 ('139.162.83.10', 34990): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 10:26:23.026 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 10:26:23.026 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 17:06:01.477 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 17:06:01.477 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 20:47:29.892 NotebookApp] SSL Error on 23 ('196.52.43.97', 52340): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 23:53:48.501 NotebookApp] SSL Error on 23 ('185.92.72.176', 27794): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 23:53:48.842 NotebookApp] SSL Error on 23 ('185.92.72.176', 28460): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 09:42:02.830 NotebookApp] SSL Error on 23 ('54.172.166.144', 37650): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 05:34:15.705 NotebookApp] SSL Error on 23 ('69.172.160.116', 52341): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.705 NotebookApp] SSL Error on 24 ('69.172.160.116', 52342): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.934 NotebookApp] SSL Error on 24 ('69.172.160.116', 52344): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.953 NotebookApp] SSL Error on 28 ('69.172.160.116', 52346): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.953 NotebookApp] SSL Error on 36 ('69.172.160.116', 52347): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.953 NotebookApp] SSL Error on 26 ('69.172.160.116', 52345): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.964 NotebookApp] SSL Error on 24 ('69.172.160.116', 52348): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:15.984 NotebookApp] SSL Error on 26 ('69.172.160.116', 52349): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:16.002 NotebookApp] SSL Error on 24 ('69.172.160.116', 52350): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:16.003 NotebookApp] SSL Error on 28 ('69.172.160.116', 52351): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:16.007 NotebookApp] SSL Error on 36 ('69.172.160.116', 52352): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 05:34:19.248 NotebookApp] SSL Error on 38 ('69.172.160.116', 52358): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[I 05:34:19.336 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 05:36:19.832 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 05:56:25.764 NotebookApp] Starting buffering for 5e3e3973-bff5-4e69-896c-39197b47e6d1:B5F1E9506ED44DD985B521BF32CA929E
+[W 06:27:35.168 NotebookApp] SSL Error on 23 ('139.162.83.10', 50882): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 06:27:35.452 NotebookApp] SSL Error on 23 ('139.162.83.10', 51008): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 06:27:35.732 NotebookApp] SSL Error on 23 ('139.162.83.10', 51152): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 06:27:40.986 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:27:40.986 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:27:56.113 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:27:56.113 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 06:27:56.253 NotebookApp] SSL Error on 23 ('139.162.83.10', 60120): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[E 06:28:06.532 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[E 06:28:06.533 NotebookApp] Exception in callback None
+    Traceback (most recent call last):
+      File "/usr/lib/python3/dist-packages/tornado/ioloop.py", line 888, in start
+        handler_func(fd_obj, events)
+      File "/usr/lib/python3/dist-packages/tornado/stack_context.py", line 277, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 519, in _handle_events
+        self._handle_read()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1400, in _handle_read
+        self._do_ssl_handshake()
+      File "/usr/lib/python3/dist-packages/tornado/iostream.py", line 1320, in _do_ssl_handshake
+        self.socket.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
+        self._sslobj.do_handshake()
+      File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
+        self._sslobj.do_handshake()
+    OSError: [Errno 0] Error
+[W 06:50:16.953 NotebookApp] SSL Error on 23 ('185.153.196.97', 9397): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 06:50:17.400 NotebookApp] SSL Error on 23 ('185.153.196.97', 10409): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:847)
+[W 07:31:32.976 NotebookApp] SSL Error on 23 ('172.105.238.87', 34958): [SSL: HTTP_REQUEST] http request (_ssl.c:847)
+[W 18:35:08.860 NotebookApp] SSL Error on 24 ('69.172.160.116', 53865): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:08.864 NotebookApp] SSL Error on 23 ('69.172.160.116', 53866): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.088 NotebookApp] SSL Error on 28 ('69.172.160.116', 53869): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.096 NotebookApp] SSL Error on 26 ('69.172.160.116', 53870): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.101 NotebookApp] SSL Error on 37 ('69.172.160.116', 53872): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.101 NotebookApp] SSL Error on 36 ('69.172.160.116', 53871): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.101 NotebookApp] SSL Error on 24 ('69.172.160.116', 53868): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.151 NotebookApp] SSL Error on 24 ('69.172.160.116', 53874): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.152 NotebookApp] SSL Error on 37 ('69.172.160.116', 53876): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.156 NotebookApp] SSL Error on 36 ('69.172.160.116', 53873): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.157 NotebookApp] SSL Error on 26 ('69.172.160.116', 53875): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.193 NotebookApp] SSL Error on 24 ('69.172.160.116', 53878): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.245 NotebookApp] SSL Error on 24 ('69.172.160.116', 53882): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:09.403 NotebookApp] SSL Error on 24 ('69.172.160.116', 53883): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[W 18:35:10.973 NotebookApp] SSL Error on 24 ('69.172.160.116', 53884): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:847)
+[I 18:35:11.063 NotebookApp] Adapting to protocol v5.1 for kernel 5e3e3973-bff5-4e69-896c-39197b47e6d1
+[I 18:37:10.902 NotebookApp] Saving file at /Weekly TCM Report.ipynb
+[I 18:39:10.891 NotebookApp] Saving file at /Weekly TCM Report.ipynb
